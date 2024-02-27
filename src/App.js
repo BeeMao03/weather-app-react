@@ -12,7 +12,7 @@ function App() {
             Open-sourced code
           </a>{" "}
           by <a href="https://github.com/BeeMao03">Mariel Buzarquis</a> hosted
-          on <a>Netlify</a>
+          on Netlify
         </small>
       </div>
     </div>
