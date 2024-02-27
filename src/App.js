@@ -8,9 +8,11 @@ function App() {
       <SearchEngine />
       <div>
         <small>
-          <a>Open-sourced code</a> by{" "}
-          <a href="https://github.com/BeeMao03">Mariel Buzarquis</a> hosted on{" "}
-          <a>Netlify</a>
+          <a href="https://github.com/BeeMao03/weather-app-react">
+            Open-sourced code
+          </a>{" "}
+          by <a href="https://github.com/BeeMao03">Mariel Buzarquis</a> hosted
+          on <a>Netlify</a>
         </small>
       </div>
     </div>
